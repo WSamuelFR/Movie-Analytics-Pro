@@ -77,6 +77,32 @@ Presentation Layer: O Dashboard da WSistemas, onde o usuário final consome as a
 A transição para Python permitiu um ganho direto na precisão dos modelos. Ao incluir a variável "Categoria" (Gênero) no treinamento, 
 o modelo KNN apresentou uma evolução significativa na métrica de erro, enquanto a Árvore de Decisão atingiu uma acurácia superior a 75% na classificação de filmes bem avaliados.
 
+<p align="center">🖼️ Visualização do Sistema Funcional</p>
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<b>Dashboard Principal</b>
+
+
+
+<img src="prints/print_main.png" width="100%" alt="Main Dashboard">
+</td>
+<td align="center" width="33%">
+<b>Predição com IA</b>
+
+
+
+<img src="prints/print_predicao.png" width="100%" alt="AI Prediction">
+</td>
+<td align="center" width="33%">
+<b>Análise Gráfica</b>
+
+
+<img src="prints/print_graficos.png" width="100%" alt="Graphics Analysis">
+</td>
+</tr>
+</table>
+
 <div style="background-color: #161b22; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
 <h3 style="color: #77d7ff; margin-top: 0;">📂 Estrutura de Diretórios: Movie Analytics Pro</h3>
 <ol>
